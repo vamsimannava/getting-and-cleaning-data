@@ -1,5 +1,5 @@
 
-# Author : Nallamilli Srikar Reddy
+# Author : hari vamsi mannava
 # Getting and Cleaning Data Course Project
 
 # Loading the required libraries
